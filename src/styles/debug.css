@@ -1,0 +1,4 @@
+/* Toggle layout debugging by adding the `debug` class on a container. */
+.debug * {
+  outline: 1px solid rgba(255, 0, 128, 0.35);
+}
