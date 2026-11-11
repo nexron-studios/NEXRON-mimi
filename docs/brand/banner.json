@@ -1,0 +1,9 @@
+{
+  "name": "Mimi",
+  "tagline": "Press a hotkey, speak, paste: speech to text that never leaves your machine",
+  "glyph": "glyph.svg",
+  "brand": "#9c93ff",
+  "brand_light": "#6159e1",
+  "pattern": "dots",
+  "out": "."
+}

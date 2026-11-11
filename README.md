@@ -1,4 +1,22 @@
-# mimi
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/brand/readme-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/brand/readme-banner-light.svg">
+  <img src="docs/brand/readme-banner-dark.svg" alt="Mimi by NEXRON Studios: press a hotkey, speak, paste. Speech to text that never leaves your machine" width="100%">
+</picture>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Tauri-2-9c93ff?style=flat-square&labelColor=19191a&logo=tauri&logoColor=f0efec" alt="Tauri 2">
+<img src="https://img.shields.io/badge/Vue-3-9c93ff?style=flat-square&labelColor=19191a&logo=vuedotjs&logoColor=f0efec" alt="Vue 3">
+<img src="https://img.shields.io/badge/Whisper-whisper.cpp-9c93ff?style=flat-square&labelColor=19191a&logo=cplusplus&logoColor=f0efec" alt="Whisper via whisper.cpp">
+<img src="https://img.shields.io/badge/Rust-2021-9c93ff?style=flat-square&labelColor=19191a&logo=rust&logoColor=f0efec" alt="Rust 2021">
+<img src="https://img.shields.io/badge/SQLite-local-9c93ff?style=flat-square&labelColor=19191a&logo=sqlite&logoColor=f0efec" alt="SQLite, local">
+
+</div>
+
+<br>
 
 **Mimi** ist eine kleine, **komplett lokale** Desktop-App zum schnellen Aufnehmen, Transkribieren und Kopieren von Sprache.
 
@@ -73,3 +91,7 @@ src/
 src-tauri/
   src/           # lib.rs (Commands), db.rs (SQLite), transcribe.rs (whisper), model.rs (Download)
 ```
+
+<br>
+
+<div align="center"><sub>Mimi is a NEXRON Studios tool. Banner from docs/brand/banner.json; the violet is the primary token in src/styles/shadcn.css.</sub></div>
